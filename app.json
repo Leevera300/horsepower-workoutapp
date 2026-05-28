@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Horsepower",
+    "slug": "horsepower-workoutapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#090B10"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {}
+  }
+}
