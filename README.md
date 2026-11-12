@@ -151,7 +151,7 @@ sequenceDiagram
 | 6 | Premium and release | subscribe for the AI coach; app in both stores |
 | Later | Extras | GPS run tracking, body diagram muscle map |
 
-Issue-level detail: the [project board](https://github.com/users/Leevera300/projects/3).
+More detail: [docs/plan.md](docs/plan.md) (order, design mockups), [docs/issues.md](docs/issues.md) (every issue) and the [project board](https://github.com/users/Leevera300/projects/3).
 
 ## Rules that never change
 
